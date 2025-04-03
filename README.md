@@ -21,8 +21,8 @@ This is a Mod Pack for Velociti Entertainments Private Schedule 1 Server.
 	- Daily Wage = 300
 	- Walk Speed = 1.2
   - Packager:
-    - Max Stations = 3
-	- Max Routes = 5
+    - Max Stations = 8 (Default 3)
+	- Max Routes = 10 (Default 5)
 	- Speed Mult = 2 (Default 1)
 	- Daily Wage = 200
 	- Walk Speed = 1.2
@@ -36,7 +36,7 @@ This is a Mod Pack for Velociti Entertainments Private Schedule 1 Server.
 	- Daily Wage = 200
 	- Walk Speed = 1.2
   - Cleaner:
-    - Max Bins = 5 (Default 3)
+    - Max Bins = 8 (Default 3)
 	- Daily Wage = 100
 	- Walk Speed = 1.2
 

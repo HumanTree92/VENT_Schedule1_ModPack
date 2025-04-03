@@ -5,8 +5,8 @@
     "WalkSpeed": 1.2
   },
   "packager": {
-    "MaxStations": 3,
-    "MaxRoutes": 5,
+    "MaxStations": 8,
+    "MaxRoutes": 10,
     "PackagingSpeedMultiplier": 2,
     "DailyWage": 200,
     "WalkSpeed": 1.2
@@ -22,7 +22,7 @@
     "WalkSpeed": 1.2
   },
   "cleaner": {
-    "MaxBins": 5,
+    "MaxBins": 8,
     "DailyWage": 100,
     "WalkSpeed": 1.2
   }
