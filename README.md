@@ -10,6 +10,7 @@ This is a Mod Pack for Velociti Entertainments Private Schedule 1 Server.
 6) Drag & Drop all the contents of Drag & Drop into the Schedule 1 Directory.
 
 # Mod Changes:
+- Added Quick Save to the Pause Menu
 - Added Mini Map
 - Added 4 Extra Slots to Dealers
 - Increased Stack Size to 60 (Sadly can't change it)
