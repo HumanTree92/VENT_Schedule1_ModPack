@@ -11,8 +11,9 @@ This is a Mod Pack for Velociti Entertainments Private Schedule 1 Server.
 
 # Mod Changes:
 - Added Mini Map
-- Increased Stack Size to 60 (Sadly can't change it)
 - Added 4 Extra Slots to Dealers
+- Increased Stack Size to 60 (Sadly can't change it)
+- Warehouse always Open
 - Better Employees
   - Chemist:
     - Max Stations = 8 (Default 3)
