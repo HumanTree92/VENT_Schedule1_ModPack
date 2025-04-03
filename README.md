@@ -4,8 +4,10 @@ This is a Mod Pack for Velociti Entertainments Private Schedule 1 Server.
 # Download & Installation:
 1) Download the .zip.
 2) Extract the .zip or Open the .zip.
-3) Go to your Steam > steamapps > common > Schedule 1 Directory.
-4) Drag & Drop all the contents of Drag & Drop into the Schedule 1 Directory.
+3) Run the MelonLoader.Installer.exe inside the Installation Directory.
+4) In the MelonLoader make sure you click on Schedule 1.
+5) Go to your Steam > steamapps > common > Schedule 1 Directory.
+6) Drag & Drop all the contents of Drag & Drop into the Schedule 1 Directory.
 
 # Mod Changes:
 - Added Mini Map
