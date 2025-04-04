@@ -1,29 +1,29 @@
 {
   "chemist": {
-    "MaxStations": 8,
+    "MaxStations": 4,
     "DailyWage": 300,
-    "WalkSpeed": 1.2
+    "WalkSpeed": 1.5
   },
   "packager": {
-    "MaxStations": 8,
+    "MaxStations": 3,
     "MaxRoutes": 10,
     "PackagingSpeedMultiplier": 2,
     "DailyWage": 200,
-    "WalkSpeed": 1.2
+    "WalkSpeed": 1.5
   },
   "botanist": {
-    "MaxStations": 10,
+    "MaxStations": 8,
     "SoilPourTime": 10,
     "WaterPourTime": 10,
     "AdditivePourTime": 10,
     "SeedSowTime": 15,
     "HarvestTime": 15,
 	"DailyWage": 200,
-    "WalkSpeed": 1.2
+    "WalkSpeed": 1.5
   },
   "cleaner": {
-    "MaxBins": 8,
+    "MaxBins": 3,
     "DailyWage": 100,
-    "WalkSpeed": 1.2
+    "WalkSpeed": 1.5
   }
 }
