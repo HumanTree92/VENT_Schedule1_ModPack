@@ -22,7 +22,7 @@
     "WalkSpeed": 1.5
   },
   "cleaner": {
-    "MaxBins": 3,
+    "MaxBins": 6,
     "DailyWage": 100,
     "WalkSpeed": 1.5
   }

@@ -17,7 +17,7 @@ This is a Mod Pack for Velociti Entertainments Private Schedule 1 Server.
 - Warehouse always Open
 - Better Employees
   - Chemist:
-    - Max Stations = 4 (Default 3)
+    - Max Stations = 4
 	- Daily Wage = 300
 	- Walk Speed = 1.5 (Default 1.2)
   - Packager:
@@ -36,7 +36,7 @@ This is a Mod Pack for Velociti Entertainments Private Schedule 1 Server.
 	- Daily Wage = 200
 	- Walk Speed = 1.5 (Default 1.2)
   - Cleaner:
-    - Max Bins = 3
+    - Max Bins = 6 (Default 3)
 	- Daily Wage = 100
 	- Walk Speed = 1.5 (Default 1.2)
 
