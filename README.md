@@ -13,21 +13,20 @@ This is a Mod Pack for Velociti Entertainments Private Schedule 1 Server.
 - Added Quick Save to the Pause Menu
 - Added Mini Map
 - Added 4 Extra Slots to Dealers
-- Increased Stack Size to 60 (Sadly can't change it)
 - Warehouse always Open
 - Better Employees
   - Chemist:
     - Max Stations = 4
 	- Daily Wage = 300
 	- Walk Speed = 1.5 (Default 1.2)
-  - Packager:
+  - Handler:
     - Max Stations = 3
-	- Max Routes = 20 (Default 5)
+	- Max Routes = 24 (Default 5)
 	- Speed Mult = 2 (Default 1)
 	- Daily Wage = 200
 	- Walk Speed = 1.5 (Default 1.2)
   - Botanist:
-    - Max Stations = 8
+    - Max Stations = 12 (Default 8)
 	- Soil Pour Time = 10 Seconds
 	- Water Pour Time = 10 Seconds
 	- Additive Pour Time = 10 Seconds

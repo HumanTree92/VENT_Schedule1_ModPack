@@ -6,13 +6,13 @@
   },
   "packager": {
     "MaxStations": 3,
-    "MaxRoutes": 20,
+    "MaxRoutes": 24,
     "PackagingSpeedMultiplier": 2,
     "DailyWage": 200,
     "WalkSpeed": 1.5
   },
   "botanist": {
-    "MaxStations": 8,
+    "MaxStations": 12,
     "SoilPourTime": 10,
     "WaterPourTime": 10,
     "AdditivePourTime": 10,
