@@ -22,7 +22,7 @@ This is a Mod Pack for Velociti Entertainments Private Schedule 1 Server.
 	- Walk Speed = 1.5 (Default 1.2)
   - Packager:
     - Max Stations = 3
-	- Max Routes = 10 (Default 5)
+	- Max Routes = 20 (Default 5)
 	- Speed Mult = 2 (Default 1)
 	- Daily Wage = 200
 	- Walk Speed = 1.5 (Default 1.2)
