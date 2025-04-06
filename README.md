@@ -56,7 +56,7 @@ This is a Mod Pack for Velociti Entertainments Private Schedule 1 Server.
 	- Sedan = 5
 	- Pickup = 16 (Default 8)
 	- Coupe = 4
-	- Van = 32 (Default 16)
+	- Van = 20 (Default 16)
   - Extra:
     - Briefcase = 5 (Default 4)
 	- Dealer = 8 (Default 5)
