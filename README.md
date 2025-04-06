@@ -9,11 +9,22 @@ This is a Mod Pack for Velociti Entertainments Private Schedule 1 Server.
 5) Go to your Steam > steamapps > common > Schedule 1 Directory.
 6) Drag & Drop all the contents of Drag & Drop into the Schedule 1 Directory.
 
+# ReShades:
+1) In the ReShades folder Run the ReShade_Setup_6.4.1.exe
+2) Game is Schedule 1.exe
+3) Use DirectX 10/11/12
+4) Drag the CrackedOut3.1.2.ini file to the Schedule 1 Directory.
+
 # Mod Changes:
 - Added Quick Save to the Pause Menu
 - Added Mini Map
-- Added 4 Extra Slots to Dealers
-- Warehouse always Open
+- Added 3 Extra Slots to Dealers
+- Warehouse Always Open
+- Renameable Placeables
+- Recipe List GUI
+- Always have Clipboard
+- Added Crosshair Buttons
+  - Press ] or } for the Crosshair
 - Better Employees
   - Chemist:
     - Max Stations = 4
@@ -38,6 +49,24 @@ This is a Mod Pack for Velociti Entertainments Private Schedule 1 Server.
     - Max Bins = 6 (Default 3)
 	- Daily Wage = 100
 	- Walk Speed = 1.5 (Default 1.2)
+- Storage Tweaks
+  - Cars:
+    - Shitbox = 5
+	- SUV = 5
+	- Sedan = 5
+	- Pickup = 16 (Default 8)
+	- Coupe = 4
+	- Van = 32 (Default 16)
+  - Extra:
+    - Briefcase = 5 (Default 4)
+	- Dealer = 8 (Default 5)
+	- Delivery Bay = 5
+	- Dead Drop = 5
+	- Safe = 10
+  - Storage Racks:
+    - Large = 16 (Default 8)
+	- Medium = 12 (Default 6)
+	- Small = 8 (Default 4)
 
 # Visit Velociti Entertainment:
 * [Discord]( https://discord.velocitientertainment.com )
