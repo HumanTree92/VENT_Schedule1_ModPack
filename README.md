@@ -18,7 +18,6 @@ This is a Mod Pack for Velociti Entertainments Private Schedule 1 Server.
 # Mod Changes:
 - Added Quick Save to the Pause Menu
 - Added Mini Map
-- Added 3 Extra Slots to Dealers
 - Warehouse Always Open
 - Renameable Placeables
 - Recipe List GUI
