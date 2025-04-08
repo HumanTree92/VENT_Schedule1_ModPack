@@ -22,6 +22,8 @@ This is a Mod Pack for Velociti Entertainments Private Schedule 1 Server.
 - Renameable Placeables
 - Recipe List GUI
 - Always have Clipboard
+- Employees Don't need beds.
+  - Their pay is deducted from your Cash
 - Added Crosshair Buttons
   - Press ] or } for the Crosshair
 - Better Employees
