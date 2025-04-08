@@ -16,17 +16,32 @@ This is a Mod Pack for Velociti Entertainments Private Schedule 1 Server.
 4) Drag the CrackedOut3.1.2.ini file to the Schedule 1 Directory.
 
 # Mod Changes:
-- Added Quick Save to the Pause Menu
-- Added Mini Map
-- Warehouse Always Open
-- Renameable Placeables
-- Recipe List GUI
-- Always have Clipboard
-- Employees Don't need beds.
-  - Their pay is deducted from your Cash
-- Added Crosshair Buttons
-  - Press ] or } for the Crosshair
-- Better Employees
+- [QuickSave]( https://www.nexusmods.com/schedule1/mods/104 )
+  - Adds a Save Game button to the Pause Menu.
+- [Minimap]( https://www.nexusmods.com/schedule1/mods/113 )
+  - A MiniMap system for the Full Version of the game.
+  - Displays local player, property locations, and various shops.
+  - Press F3 to enable/disable.
+- [Warehouse Always Open]( https://www.nexusmods.com/schedule1/mods/189 )
+  - Warehouse Always Open removes all restrictions from the illegal market’s operating hours, letting you enter anytime.
+  - No more waiting for 6PM, and no rank is required to unlock it.
+- [Renameable Placeables]( https://www.nexusmods.com/schedule1/mods/279 )
+  - Rename your storage racks, mixers, and lab ovens!
+  - Routes on your management clipboard are no longer just "Large Storage Rack -> Mixing Station", but now "Cuke Shelf -> Cuke Mixing"!
+- [Recipe List GUI]( https://www.nexusmods.com/schedule1/mods/215 )
+  - This mod lets you easily find the recipes for products you have discovered or favorited.
+- [ClipboardPlus]( https://www.nexusmods.com/schedule1/mods/286 )
+  - The clipboard is now always enabled.
+- [Employee Manager App]( https://www.nexusmods.com/schedule1/mods/162 )
+  - Only One bed needed for All Employees
+  - Set manual idle point for employees
+  - Pay all employees
+  - Increase Property capacity
+  - Hire new Employees
+- [Crosshair]( https://www.nexusmods.com/schedule1/mods/294 )
+  - This mod is going to add a crosshair in your game.
+  - Press ] or } for the Crosshair.
+- [Better Employees]( https://www.nexusmods.com/schedule1/mods/140 )
   - Chemist:
     - Max Stations = 4
 	- Daily Wage = 300
@@ -50,7 +65,7 @@ This is a Mod Pack for Velociti Entertainments Private Schedule 1 Server.
     - Max Bins = 6 (Default 3)
 	- Daily Wage = 100
 	- Walk Speed = 1.5 (Default 1.2)
-- Storage Tweaks
+- [Storage Tweaks]( https://www.nexusmods.com/schedule1/mods/209 )
   - Cars:
     - Shitbox = 5
 	- SUV = 5
