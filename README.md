@@ -28,8 +28,8 @@ This is a Mod Pack for Velociti Entertainments Private Schedule 1 Server.
 - [Renameable Placeables]( https://www.nexusmods.com/schedule1/mods/279 )
   - Rename your storage racks, mixers, and lab ovens!
   - Routes on your management clipboard are no longer just "Large Storage Rack -> Mixing Station", but now "Cuke Shelf -> Cuke Mixing"!
-- [Recipe List GUI]( https://www.nexusmods.com/schedule1/mods/215 )
-  - This mod lets you easily find the recipes for products you have discovered or favorited.
+- [Recipe List Menu]( https://www.nexusmods.com/schedule1/mods/296 )
+  - The mod analyzes and saves the recipes that you have created, and then you can see what the price is and what you need to create the product.
 - [ClipboardPlus]( https://www.nexusmods.com/schedule1/mods/286 )
   - The clipboard is now always enabled.
 - [Employee Manager App]( https://www.nexusmods.com/schedule1/mods/162 )
