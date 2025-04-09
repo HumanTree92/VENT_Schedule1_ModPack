@@ -33,11 +33,13 @@ This is a Mod Pack for Velociti Entertainments Private Schedule 1 Server.
 - [ClipboardPlus]( https://www.nexusmods.com/schedule1/mods/286 )
   - The clipboard is now always enabled.
 - [Employee Manager App]( https://www.nexusmods.com/schedule1/mods/162 )
-  - Only One bed needed for All Employees
-  - Set manual idle point for employees
   - Pay all employees
   - Increase Property capacity
   - Hire new Employees
+- [Shared Beds for employees]( https://www.nexusmods.com/schedule1/mods/416 )
+  - Now you can assign multiple employees to the same bed.
+- [Custom Idle Points for Employees]( https://www.nexusmods.com/schedule1/mods/411 )
+  - Set custom idle points wherever you want.
 - [Crosshair]( https://www.nexusmods.com/schedule1/mods/294 )
   - This mod is going to add a crosshair in your game.
   - Press ] or } for the Crosshair.
