@@ -16,6 +16,8 @@ This is a Mod Pack for Velociti Entertainments Private Schedule 1 Server.
 4) Drag the CrackedOut3.1.2.ini file to the Schedule 1 Directory.
 
 # Mod Changes:
+- [Reshelves]( https://www.nexusmods.com/schedule1/mods/328 )
+  - Effortlessly re-shelves ingredients and consumables for you.
 - [QuickSave]( https://www.nexusmods.com/schedule1/mods/104 )
   - Adds a Save Game button to the Pause Menu.
 - [Minimap]( https://www.nexusmods.com/schedule1/mods/113 )
@@ -33,11 +35,11 @@ This is a Mod Pack for Velociti Entertainments Private Schedule 1 Server.
 - [ClipboardPlus]( https://www.nexusmods.com/schedule1/mods/286 )
   - The clipboard is now always enabled.
 - [Employee Manager App]( https://www.nexusmods.com/schedule1/mods/162 )
-  - Pay all employees
-  - Increase Property capacity
+  - Pay all Employees
+  - Increase Property Capacity
   - Hire new Employees
 - [Shared Beds for employees]( https://www.nexusmods.com/schedule1/mods/416 )
-  - Now you can assign multiple employees to the same bed.
+  - Now you can assign multiple Employees to the same bed.
 - [Custom Idle Points for Employees]( https://www.nexusmods.com/schedule1/mods/411 )
   - Set custom idle points wherever you want.
 - [Crosshair]( https://www.nexusmods.com/schedule1/mods/294 )
