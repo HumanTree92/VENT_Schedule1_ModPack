@@ -54,7 +54,7 @@ This is a Mod Pack for Velociti Entertainments Private Schedule 1 Server.
 	- Walk Speed = 1.5 (Default 1.2)
   - Handler:
     - Max Stations = 3
-	- Max Routes = 24 (Default 5)
+	- Max Routes = 10 (Default 5)
 	- Speed Mult = 2 (Default 1)
 	- Daily Wage = 200
 	- Walk Speed = 1.5 (Default 1.2)
@@ -84,7 +84,10 @@ This is a Mod Pack for Velociti Entertainments Private Schedule 1 Server.
 	- Dealer = 8 (Default 5)
 	- Delivery Bay = 5
 	- Dead Drop = 5
-	- Safe = 10
+	- Safe = 20 (Default 10)
+	- Table = 3
+	- Coffee Table = 3
+	- Display Cabinet = 4
   - Storage Racks:
     - Large = 16 (Default 8)
 	- Medium = 12 (Default 6)
