@@ -16,6 +16,8 @@ This is a Mod Pack for Velociti Entertainments Private Schedule 1 Server.
 4) Drag the CrackedOut3.1.2.ini file to the Schedule 1 Directory.
 
 # Mod Changes:
+- [Delivery App Order Saver]( https://www.nexusmods.com/schedule1/mods/454 )
+  - This mod provides users to save their orders in Delivery App in order to buy same orders without selecting them up one by one again and again.
 - [Reshelves]( https://www.nexusmods.com/schedule1/mods/328 )
   - Effortlessly re-shelves ingredients and consumables for you.
 - [QuickSave]( https://www.nexusmods.com/schedule1/mods/104 )
