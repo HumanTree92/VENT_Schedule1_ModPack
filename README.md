@@ -16,6 +16,16 @@ This is a Mod Pack for Velociti Entertainments Private Schedule 1 Server.
 4) Drag the CrackedOut3.1.2.ini file to the Schedule 1 Directory.
 
 # Mod Changes:
+- [MoreRoutes]( https://www.nexusmods.com/schedule1/mods/510 )
+  - Triples the number of Routes your Handlers can handle!
+- [UI Dark Mode]( https://www.nexusmods.com/schedule1/mods/554 )
+  - Dark mode for the game's bright menus.
+- [Phone Wallpaper]( https://www.nexusmods.com/schedule1/mods/325 )
+  - Transform your phone screen with custom wallpapers, enjoy a sleek dark mode, and keep track of your current net worth all in one mod!
+- [Dealer Self-Supply System]( https://www.nexusmods.com/schedule1/mods/552 )
+  - Dealers monitor their stock levels and collect items from assigned storage when running low.
+- [Shelf Labels]( https://www.nexusmods.com/schedule1/mods/590 )
+  - Add customizable labels to storage racks.
 - [Delivery App Order Saver]( https://www.nexusmods.com/schedule1/mods/454 )
   - This mod provides users to save their orders in Delivery App in order to buy same orders without selecting them up one by one again and again.
 - [Reshelves]( https://www.nexusmods.com/schedule1/mods/328 )
@@ -54,7 +64,7 @@ This is a Mod Pack for Velociti Entertainments Private Schedule 1 Server.
 	- Walk Speed = 1.5 (Default 1.2)
   - Handler:
     - Max Stations = 3
-	- Max Routes = 10 (Default 5)
+	- Max Routes = 15 (Default 5)
 	- Speed Mult = 2 (Default 1)
 	- Daily Wage = 200
 	- Walk Speed = 1.5 (Default 1.2)
@@ -88,6 +98,7 @@ This is a Mod Pack for Velociti Entertainments Private Schedule 1 Server.
 	- Table = 3
 	- Coffee Table = 3
 	- Display Cabinet = 4
+	- Wall-Mounted Shelf = 4
   - Storage Racks:
     - Large = 16 (Default 8)
 	- Medium = 12 (Default 6)

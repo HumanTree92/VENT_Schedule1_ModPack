@@ -6,7 +6,7 @@
   },
   "packager": {
     "MaxStations": 3,
-    "MaxRoutes": 10,
+    "MaxRoutes": 15,
     "PackagingSpeedMultiplier": 2,
     "DailyWage": 200,
     "WalkSpeed": 1.5
