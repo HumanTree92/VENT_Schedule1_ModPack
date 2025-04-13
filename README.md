@@ -16,6 +16,8 @@ This is a Mod Pack for Velociti Entertainments Private Schedule 1 Server.
 4) Drag the CrackedOut3.1.2.ini file to the Schedule 1 Directory.
 
 # Mod Changes:
+- [Spood's larger trash can radius]( https://www.nexusmods.com/schedule1/mods/497 )
+  - Increases the radius of trash cans so that cleaners can pick up trash from a bit further away.
 - [MoreRoutes]( https://www.nexusmods.com/schedule1/mods/510 )
   - Triples the number of Routes your Handlers can handle!
 - [UI Dark Mode]( https://www.nexusmods.com/schedule1/mods/554 )
