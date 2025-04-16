@@ -16,49 +16,6 @@ This is a Mod Pack for Velociti Entertainments Private Schedule 1 Server.
 4) Drag the CrackedOut3.1.2.ini file to the Schedule 1 Directory.
 
 # Mod Changes:
-- [Spood's larger trash can radius]( https://www.nexusmods.com/schedule1/mods/497 )
-  - Increases the radius of trash cans so that cleaners can pick up trash from a bit further away.
-- [MoreRoutes]( https://www.nexusmods.com/schedule1/mods/510 )
-  - Triples the number of Routes your Handlers can handle!
-- [UI Dark Mode]( https://www.nexusmods.com/schedule1/mods/554 )
-  - Dark mode for the game's bright menus.
-- [Phone Wallpaper]( https://www.nexusmods.com/schedule1/mods/325 )
-  - Transform your phone screen with custom wallpapers, enjoy a sleek dark mode, and keep track of your current net worth all in one mod!
-- [Dealer Self-Supply System]( https://www.nexusmods.com/schedule1/mods/552 )
-  - Dealers monitor their stock levels and collect items from assigned storage when running low.
-- [Shelf Labels]( https://www.nexusmods.com/schedule1/mods/590 )
-  - Add customizable labels to storage racks.
-- [Delivery App Order Saver]( https://www.nexusmods.com/schedule1/mods/454 )
-  - This mod provides users to save their orders in Delivery App in order to buy same orders without selecting them up one by one again and again.
-- [Reshelves]( https://www.nexusmods.com/schedule1/mods/328 )
-  - Effortlessly re-shelves ingredients and consumables for you.
-- [QuickSave]( https://www.nexusmods.com/schedule1/mods/104 )
-  - Adds a Save Game button to the Pause Menu.
-- [Minimap]( https://www.nexusmods.com/schedule1/mods/113 )
-  - A MiniMap system for the Full Version of the game.
-  - Displays local player, property locations, and various shops.
-  - Press F3 to enable/disable.
-- [Warehouse Always Open]( https://www.nexusmods.com/schedule1/mods/189 )
-  - Warehouse Always Open removes all restrictions from the illegal market’s operating hours, letting you enter anytime.
-  - No more waiting for 6PM, and no rank is required to unlock it.
-- [Renameable Placeables]( https://www.nexusmods.com/schedule1/mods/279 )
-  - Rename your storage racks, mixers, and lab ovens!
-  - Routes on your management clipboard are no longer just "Large Storage Rack -> Mixing Station", but now "Cuke Shelf -> Cuke Mixing"!
-- [Recipe List Menu]( https://www.nexusmods.com/schedule1/mods/296 )
-  - The mod analyzes and saves the recipes that you have created, and then you can see what the price is and what you need to create the product.
-- [ClipboardPlus]( https://www.nexusmods.com/schedule1/mods/286 )
-  - The clipboard is now always enabled.
-- [Employee Manager App]( https://www.nexusmods.com/schedule1/mods/162 )
-  - Pay all Employees
-  - Increase Property Capacity
-  - Hire new Employees
-- [Shared Beds for employees]( https://www.nexusmods.com/schedule1/mods/416 )
-  - Now you can assign multiple Employees to the same bed.
-- [Custom Idle Points for Employees]( https://www.nexusmods.com/schedule1/mods/411 )
-  - Set custom idle points wherever you want.
-- [Crosshair]( https://www.nexusmods.com/schedule1/mods/294 )
-  - This mod is going to add a crosshair in your game.
-  - Press ] or } for the Crosshair.
 - [Better Employees]( https://www.nexusmods.com/schedule1/mods/140 )
   - Chemist:
     - Max Stations = 4
@@ -83,7 +40,7 @@ This is a Mod Pack for Velociti Entertainments Private Schedule 1 Server.
     - Max Bins = 6 (Default 3)
 	- Daily Wage = 100
 	- Walk Speed = 1.5 (Default 1.2)
-- [Storage Tweaks]( https://www.nexusmods.com/schedule1/mods/209 )
+- [Bread's Storage Tweaks]( https://www.nexusmods.com/schedule1/mods/209 )
   - Cars:
     - Shitbox = 5
 	- SUV = 5
@@ -105,6 +62,61 @@ This is a Mod Pack for Velociti Entertainments Private Schedule 1 Server.
     - Large = 16 (Default 8)
 	- Medium = 12 (Default 6)
 	- Small = 8 (Default 4)
+- [CDXX Mod Menu]( https://www.nexusmods.com/schedule1/mods/89 )
+  - A built in utility tool via phone contact.
+- [ClipboardPlus]( https://www.nexusmods.com/schedule1/mods/286 )
+  - The clipboard is now always enabled.
+- [Crosshair V2]( https://www.nexusmods.com/schedule1/mods/294 )
+  - This mod is going to add a crosshair in your game.
+  - Press ] or } for the Crosshair.
+- [Custom Idle Points for Employees]( https://www.nexusmods.com/schedule1/mods/411 )
+  - Set custom idle points wherever you want.
+- [Daypack]( https://www.nexusmods.com/schedule1/mods/524 )
+  - Add a second inventory bar. Toggle it with B; fully integrated with the inventory (offline save, stacks, ...)
+- [Dealer Self-Supply System]( https://www.nexusmods.com/schedule1/mods/552 )
+  - Dealers monitor their stock levels and collect items from assigned storage when running low.
+- [Delivery App Order Saver]( https://www.nexusmods.com/schedule1/mods/454 )
+  - This mod provides users to save their orders in Delivery App in order to buy same orders without selecting them up one by one again and again.
+- [Employee Manager App]( https://www.nexusmods.com/schedule1/mods/162 )
+  - Pay all Employees
+  - Increase Property Capacity
+  - Hire new Employees
+- [EnhancedCasino]( https://www.nexusmods.com/schedule1/mods/97 )
+  - Open 24/7, Increase Maximum Bet in the Casino to 25k on ALL GAMES, Free Play Mode and enjoy a couple UI Tweaks to Enhance Your Casino Experience!
+- [Minimap]( https://www.nexusmods.com/schedule1/mods/113 )
+  - A MiniMap system for the Full Version of the game.
+  - Displays local player, property locations, and various shops.
+  - Press F3 to enable/disable.
+- [MoreRoutes]( https://www.nexusmods.com/schedule1/mods/510 )
+  - Triples the number of Routes your Handlers can handle!
+- [NastyMod - All in One Mod Menu]( https://www.nexusmods.com/schedule1/mods/86 )
+  - NastyMod is a all in one mod menu for the game Schedule I
+- [NoCoast - Skateboards Designs]( https://www.nexusmods.com/schedule1/mods/625 )
+  - NoCoastMod rips out the boring stock textures and slams in a collection of gritty, hand-crafted skateboard designs.
+- [Phone Wallpaper]( https://www.nexusmods.com/schedule1/mods/325 )
+  - Transform your phone screen with custom wallpapers, enjoy a sleek dark mode, and keep track of your current net worth all in one mod!
+- [QuickSave]( https://www.nexusmods.com/schedule1/mods/104 )
+  - Adds a Save Game button to the Pause Menu.
+- [Renameable Placeables]( https://www.nexusmods.com/schedule1/mods/279 )
+  - Rename your storage racks, mixers, and lab ovens!
+  - Routes on your management clipboard are no longer just "Large Storage Rack -> Mixing Station", but now "Cuke Shelf -> Cuke Mixing"!
+- [Reshelves]( https://www.nexusmods.com/schedule1/mods/328 )
+  - Effortlessly re-shelves ingredients and consumables for you.
+- [Recipe List Menu]( https://www.nexusmods.com/schedule1/mods/296 )
+  - The mod analyzes and saves the recipes that you have created, and then you can see what the price is and what you need to create the product.
+- [Shared Beds for employees]( https://www.nexusmods.com/schedule1/mods/416 )
+  - Now you can assign multiple Employees to the same bed.
+- [Shelf Labels]( https://www.nexusmods.com/schedule1/mods/590 )
+  - Add customizable labels to storage racks.
+- [Spood's larger trash can radius]( https://www.nexusmods.com/schedule1/mods/497 )
+  - Increases the radius of trash cans so that cleaners can pick up trash from a bit further away.
+- [UI Dark Mode]( https://www.nexusmods.com/schedule1/mods/554 )
+  - Dark mode for the game's bright menus.
+- [VoidEmployees]( https://www.nexusmods.com/schedule1/mods/670 )
+  - Fix clipping issues and unwanted collisions without affecting gameplay.
+- [Warehouse Always Open]( https://www.nexusmods.com/schedule1/mods/189 )
+  - Warehouse Always Open removes all restrictions from the illegal market’s operating hours, letting you enter anytime.
+  - No more waiting for 6PM, and no rank is required to unlock it.
 
 # Visit Velociti Entertainment:
 * [Discord]( https://discord.velocitientertainment.com )
