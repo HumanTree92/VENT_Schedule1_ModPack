@@ -83,6 +83,8 @@ This is a Mod Pack for Velociti Entertainments Private Schedule 1 Server.
   - Hire new Employees
 - [EnhancedCasino]( https://www.nexusmods.com/schedule1/mods/97 )
   - Open 24/7, Increase Maximum Bet in the Casino to 25k on ALL GAMES, Free Play Mode and enjoy a couple UI Tweaks to Enhance Your Casino Experience!
+- [Fully Usable Manor]( https://www.nexusmods.com/schedule1/mods/646 )
+  - A mod to make the manor on the hilltop fully usable. Purchase it from Ray's Realty, build in it, order deliveries, and save your progress.
 - [Minimap]( https://www.nexusmods.com/schedule1/mods/113 )
   - A MiniMap system for the Full Version of the game.
   - Displays local player, property locations, and various shops.

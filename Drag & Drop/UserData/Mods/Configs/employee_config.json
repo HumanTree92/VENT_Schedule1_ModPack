@@ -1,5 +1,8 @@
 {
-  "dockswarehouse": 15,
-  "barn": 15,
-  "bungalow": 15
+  "capacities": {
+    "dockswarehouse": 15,
+    "barn": 15,
+    "bungalow": 15
+  },
+  "autoPay": {}
 }
